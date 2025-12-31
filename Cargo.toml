@@ -18,4 +18,4 @@ regex = "1.12"
 
 [dev-dependencies]
 tokio = { version = "1.46", features = ["macros", "rt"] }
-biblatex = "0.10"
+biblatex = "0.11"
